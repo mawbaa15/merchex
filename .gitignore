@@ -1,0 +1,20 @@
+# Environnement virtuel
+env/
+
+# Fichiers compilés Python
+*.pyc
+__pycache__/
+
+# Clés et fichiers sensibles
+*.env
+
+# Fichiers système
+.DS_Store
+
+# Base de données SQLite (si utilisée pour le développement)
+db.sqlite3
+
+# Dossiers statiques et migrations
+staticfiles/
+media/
+migrations/
